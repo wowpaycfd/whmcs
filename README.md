@@ -49,7 +49,7 @@ chmod 644 /path/to/whmcs/modules/gateways/callback/wowpay_callback.php
    - 🔑 **App ID**: Your WowPay application ID
    - 🔒 **App Secret**: Your WowPay application secret
    - 🛡️ **Webhook Secret**: Your webhook verification secret
-   - 🌐 **Base URL**: `https://api.wowpay.cfd`
+   - 🌐 **Base URL**: `https://wowpay.cfd`
 
 5. Click **Save Changes**
 
